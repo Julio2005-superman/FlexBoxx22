@@ -1,0 +1,5 @@
+Introducción a JavaScript
+- Es un leguaje interpretado
+- No hay tipos explícitos
+- Editor de código
+	-Visual Studio
